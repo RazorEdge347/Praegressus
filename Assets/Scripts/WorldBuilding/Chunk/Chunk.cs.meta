@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 12cd14d34f2588f47bd36b003ab1df6e
+timeCreated: 1498263112
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _Chunk: {fileID: 114120723872064648, guid: e6060b0d344e19a478c436d1096c5cf0, type: 2}
+  - levelMesh: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

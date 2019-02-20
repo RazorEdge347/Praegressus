@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1c70936ca01dec74eb28ae08d70114bb
+timeCreated: 1498359342
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - LVLMesh: {instanceID: 0}
+  - Chunkprefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

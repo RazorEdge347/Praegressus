@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b8ced92336fbbc747bc64422bb8b3bfb
+timeCreated: 1498075888
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Voxel: {fileID: 1383704974114514, guid: 8553cf0951afc3b4b8fc019263dc7039, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
